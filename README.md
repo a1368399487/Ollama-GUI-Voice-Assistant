@@ -126,6 +126,22 @@ English UI version (multi-language input):
 
 ✅ You are ready! Select a microphone, start recording, and enjoy your local voice assistant
 
+## 🔮 Future Development Plan
+
+### 1. Multi-turn Conversation with Context Memory
+Enable the assistant to remember previous exchanges within a session, maintaining contextual awareness for more coherent and relevant responses.
+
+### 2. Case Memorizer
+Store multi-turn conversations as a single **Case**, where each Case contains multiple dialogues.  
+This allows structured organization and retrieval of related conversations.
+
+### 3. Case Summarizer
+Implement a summarization tool to condense each Case into a short, ~200-word article for easier review and recall.  
+Each summary will be generated based on the full conversation history within the Case.
+
+### 4. Contextual Prompting
+Introduce context-aware prompts that provide the model with relevant background or situational cues, improving accuracy and naturalness in responses.
+
 
 
 
