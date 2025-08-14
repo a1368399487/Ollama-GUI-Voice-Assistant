@@ -115,10 +115,15 @@ English UI version (multi-language input):
     python ollama_gui_voice_fixed_en_autolang.py
 
 9️⃣ **Basic Checks**
+-------------------
 · You can check whether Ollama is running and connected correctly by **Test Connection** button after **Step8**
+
 · You can check whether your microphone is running by the **Input Volume(RMS)** bar. If it is not empty after you started recording, your voice is recorded.
+
     You can also test whether your voice is recorded by going to the **Recordings** file and opening the **.wav** documents one by one
+    
 · Other processing error will be directly shown in the UI
+
 ✅ You are ready! Select a microphone, start recording, and enjoy your local voice assistant
 
 
